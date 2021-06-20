@@ -12,5 +12,5 @@ func main() {
 	fmt.Println(version)
 	fmt.Println(commit)
 	fmt.Println(date)
-	fmt.Printf("open https://github.com/alextanhongpin/go-version/commit/%s", version)
+	fmt.Printf("open https://github.com/alextanhongpin/go-version/commit/%s", commit)
 }
